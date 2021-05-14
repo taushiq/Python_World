@@ -1,4 +1,1 @@
-web:
-run
-this
-thing
+web: gunicorm app:app
